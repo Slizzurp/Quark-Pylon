@@ -1,6 +1,6 @@
 # Quark-Pylon
 Quark & Pylon.py
-SlizzAI Network – README
+SlizzAI Network.  
 Welcome to SlizzAI, a powerful and adaptive artificial intelligence framework designed for data intelligence, AI-driven task execution, and system resilience. SlizzAI integrates Quark.py, Pylon.py, and SlizzMega as its core components, ensuring seamless computation, autonomous monitoring, and advanced AI control mechanisms.
 
 🚀 Overview
